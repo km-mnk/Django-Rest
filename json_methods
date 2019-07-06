@@ -1,0 +1,45 @@
+json: 
+
+methods:
+
+dumps() ===> convert python dict to json object
+
+loads ===> reverse 
+
+
+even though both are key-value pairs but they are different 
+
+
+
+
+
+===============================================================================
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
